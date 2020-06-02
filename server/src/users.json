@@ -1,14 +1,5 @@
-[
-    { 
-        "name" : "Jherod",
-        "email" : "jherod@email.com"
-    },
-    { 
-        "name" : "Joshua",
-        "email" : "joshua@email.com"
-    },
-    {
-        "name" : "Jane",
-        "email" : "jane@email.com"
-    }
+[ 
+    "Jherod",
+    "Joshua",
+    "Jane"
 ]
